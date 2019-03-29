@@ -642,6 +642,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Manipulator Controller Initialization.vi" Type="VI" URL="../Manipulator/Implementation/Infrastructure/Manipulator Controller Initialization.vi"/>
 			<Item Name="Manipulator Check for New Command.vi" Type="VI" URL="../Manipulator/Implementation/Infrastructure/Manipulator Check for New Command.vi"/>
 			<Item Name="readArmPotValues.vi" Type="VI" URL="../Manipulator/readArmPotValues.vi"/>
+			<Item Name="hasHatchTimeElapsed" Type="VI" URL="../hasHatchTimeElapsed"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
